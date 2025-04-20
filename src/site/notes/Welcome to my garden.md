@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-my-garden/","tags":["gardenEntry"],"dgShowBacklinks":"false","created":"2025-04-14T09:46:44.030+02:00","updated":"2025-04-15T09:29:38.509+02:00"}
+{"dg-publish":true,"permalink":"/welcome-to-my-garden/","tags":["gardenEntry"],"dgShowBacklinks":"false","noteIcon":"","created":"2025-04-14T09:46:44.030+02:00","updated":"2025-04-15T09:29:38.509+02:00"}
 ---
 
 # Welcome to my garden
