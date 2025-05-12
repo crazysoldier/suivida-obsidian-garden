@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/initia-article/","noteIcon":"1","created":"2025-05-09T09:22:37.825+02:00","updated":"2025-05-12T11:23:41.638+02:00"}
+{"dg-publish":true,"permalink":"/1-projects/initia-article/","noteIcon":"1","created":"2025-05-09T09:22:37.825+02:00","updated":"2025-05-12T11:26:00.505+02:00"}
 ---
 
 # INITIA - Why does it matter?
-This is the beginning of a series of articles about life-changing Crypto projects. In the first article of this project I am going to explain the possible impact and in the following ones i am giving hands on tutorials what to do with it right now.
+This is the beginning of a series of articles about life-changing Crypto projects. In the first article of this project, I am going to explain the possible impact, and in the following ones, I am giving hands-on tutorials on what to do with it right now.
 ## Current limitations in Crypto
 The problem with Crypto projects is that they are pretty fragmented and not very well connected. Every new App wants to do its own Blockchain, but it's not necessary, and many times too much overhead just for a single App. 
 That's why so called "Layer 2 Rollups" gained traction, using a Blockchain as Base Layer for the settlement of transactions and the security but doing the execution on their own, like a Website using the Internet Technology as base but hosting their servers which can scale and function like the founders want it too. 
